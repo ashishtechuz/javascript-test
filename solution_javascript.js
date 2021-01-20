@@ -7,9 +7,9 @@ class EventSourcer {
 
   subtract(num) {}
 
-  undo(isSingle = true) {}
+  undo() {}
 
-  redo(isSingle = true) {}
+  redo() {}
 
   bulk_undo(num) {}
 
